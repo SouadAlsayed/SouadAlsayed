@@ -13,9 +13,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm **Souad Alsayed**, a Computer Science student at **Benha University** 🇪🇬.  
-I'm passionate about **frontend development, UI/UX, and creating responsive web applications**.  
-Currently focusing on **JavaScript, React, HTML, and CSS** while continuously improving my skills in modern web technologies.  
+Hi, I'm Souad Alsayed, a Computer Science graduate from Benha University 🇪🇬.
+
+I'm passionate about frontend development and creating user-friendly web experiences that bring ideas to life through thoughtful design and functionality.
+
+Currently exploring modern web technologies, building projects, and continuously growing my skills as a developer.
 
 <br />
 
